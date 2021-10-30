@@ -5,7 +5,7 @@
 - 🤔 I’m looking for help with: **JavaScript**
 - 📫 How to reach me: Discord: Whitee#0296
 - ⚡ Fun fact: I learn several languages at the same time and I do not know a single one: kekw:
-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whitee303&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whitee303&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
 **Whitee303/Whitee303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
