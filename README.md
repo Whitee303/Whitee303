@@ -1,10 +1,10 @@
 ### Hi there. I'am Whitee!👋
 
-- 🔭 I’m currently working on: __scripts for alt:V Multiplayer__  altv.mp
+- 🔭 I’m currently working on: __scripts for alt:V Multiplayer__  altv.mp and __ExperienceV The alt:V RPG Project__
+- 🇵🇱  I'm from: Poland
 - 🌱 I’m currently learning: **JavaScript**
 - 🤔 I’m looking for help with: **JavaScript**
 - 📫 How to reach me: Discord: Whitee#0296
-- ⚡ Fun fact: I learn several languages at the same time and I do not know a single one: kekw:
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whitee303&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
