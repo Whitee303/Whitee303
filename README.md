@@ -1,6 +1,6 @@
 ### Hi there. I'am Whitee!👋
 
-- 🔭 I’m currently working on: __scripts for alt:V Multiplayer__  altv.mp and __ExperienceV__ <- alt:V Server gamemode: RPG
+- 🔭 I’m currently working on: __scripts for alt:V Multiplayer__  altv.mp and __lessV.pl__ <- alt:V Server gamemode: RPG
 - 🇵🇱  I'm from: Poland
 - 🌱 I’m currently learning: **JavaScript**
 - 🤔 I’m looking for help with: **JavaScript**
