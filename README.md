@@ -4,6 +4,7 @@
 - 🇵🇱  I'm from: Poland
 - 🌱 I’m currently learning: **JavaScript**, **Vue**
 - 📫 How to reach me: Discord: Whitee#0296
+- 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whitee303&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
