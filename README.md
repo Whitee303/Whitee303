@@ -1,10 +1,11 @@
 ### Hi there. I'am Whitee!👋
 
-- 🔭 I’m currently working on: __scripts for alt:V Multiplayer__  altv.mp and __lessV.pl__ <- alt:V Server gamemode: RPG
+- 🔭 I’m currently working on: __scripts for RAGE:MP__  
 - 🇵🇱  I'm from: Poland
-- 🌱 I’m currently learning: **JavaScript**, **Vue**
-- 📫 How to reach me: Discord: Whitee#0296
-- 
+- 🌱 I’m currently learning: **JavaScript**, **React**
+- 📫 How to reach me: Discord: .whitee.
+  
+-  Back to game from 2024 :)
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Whitee303&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
 <!--
